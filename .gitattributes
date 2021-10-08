@@ -1,0 +1,9 @@
+/.* export-ignore
+
+*       text=auto eol=lf
+*.json  text whitespace=blank-at-eol,blank-at-eof,space-before-tab,tab-in-indent,tabwidth=4
+*.md    text whitespace=blank-at-eol,blank-at-eof
+*.php   text whitespace=blank-at-eol,blank-at-eof,space-before-tab,tab-in-indent,tabwidth=4 diff=php
+*.rst   text whitespace=blank-at-eol,blank-at-eof
+*.yml   text whitespace=blank-at-eol,blank-at-eof,space-before-tab,tab-in-indent,tabwidth=4
+*.png   binary eol=unset
