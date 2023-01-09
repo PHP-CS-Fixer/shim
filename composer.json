@@ -27,7 +27,7 @@
     },
     "bin": [
         "php-cs-fixer",
-        "php-cs-fixer.phar",
+        "php-cs-fixer.phar"
     ],
     "config": {
         "sort-packages": true
