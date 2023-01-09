@@ -26,7 +26,8 @@
         "ext-mbstring": "For handling non-UTF8 characters."
     },
     "bin": [
-        "php-cs-fixer"
+        "php-cs-fixer",
+        "php-cs-fixer.phar",
     ],
     "config": {
         "sort-packages": true
