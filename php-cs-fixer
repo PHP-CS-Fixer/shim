@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 
 Phar::loadPhar(__DIR__ . '/php-cs-fixer.phar', 'php-cs-fixer.phar');
 
